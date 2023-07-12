@@ -69,7 +69,11 @@
 .item .content .text:hover {
     cursor:context-menu;
 }
-
+.edit{
+    background-color: #76b6cc;
+    border: transparent;
+    color: #F1ECE6;
+}
 .item .actions {
 	display: flex;
 }
